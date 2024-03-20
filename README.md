@@ -13,9 +13,9 @@
 >* find_stick.py
 >1. DDNS를 이용하여 웹 서버의 도메인 네임 생성
 >2. 지팡이 분실 시 찾기 및 중단 웹 구현
->3. 웹에서 FIND 버튼 클릭 -> LED ON, 부저 ON, OLED에 사용자 정보 출력
->4. 웹에서 STOP 버튼 클릭 -> LED OFF, 부저 OFF, OLED CLEAR
+>3. 웹 페이지에서 FIND 버튼 클릭 -> LED ON, 부저 ON, OLED에 사용자 정보 출력
+>4. 웹페이지에서 STOP 버튼 클릭 -> LED OFF, 부저 OFF, OLED CLEAR
 
 </br>
 
->
+><img src="https://github.com/ejshin004/IoT_Project/assets/55674729/eee1990f-649e-48ad-85c5-37b966d13a90" width="40%" height="30%"></img>
