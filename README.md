@@ -19,3 +19,8 @@
 </br>
 
 ><img src="https://github.com/ejshin004/IoT_Project/assets/55674729/eee1990f-649e-48ad-85c5-37b966d13a90" width="40%" height="30%"></img>
+
+</br>
+
+><img src="https://github.com/ejshin004/IoT_Project/assets/55674729/7235e0f5-3e35-45dd-b557-b3e3e71f5392"></img>
+><img src="https://github.com/ejshin004/IoT_Project/assets/55674729/f5a30252-68c8-4e3f-92db-73bbea9264d6"></img>
