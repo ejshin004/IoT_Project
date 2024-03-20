@@ -20,12 +20,12 @@
 
 ### [회로 구성도]
 
-><img src="https://github.com/ejshin004/IoT_Project/assets/55674729/eee1990f-649e-48ad-85c5-37b966d13a90" width="40%" height="30%"></img>
+><img src="https://github.com/ejshin004/IoT_Project/assets/55674729/eee1990f-649e-48ad-85c5-37b966d13a90"></img>
 
 </br>
 </br>
 
 ### [웹 페이지]
 
-><img src="https://github.com/ejshin004/IoT_Project/assets/55674729/608efa94-c6a2-4ca2-9cd2-20abc5d07361" width="60%" height="30%"></img>
-><img src="https://github.com/ejshin004/IoT_Project/assets/55674729/664ae756-b0b1-4abd-b168-e31acae05267" width="60%" height="30%"></img>
+><img src="https://github.com/ejshin004/IoT_Project/assets/55674729/608efa94-c6a2-4ca2-9cd2-20abc5d07361"></img>
+><img src="https://github.com/ejshin004/IoT_Project/assets/55674729/664ae756-b0b1-4abd-b168-e31acae05267"></img>
